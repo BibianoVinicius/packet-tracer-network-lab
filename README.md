@@ -1,78 +1,51 @@
 # 🌐 Packet Tracer Network Lab
 
-Laboratório prático de infraestrutura e serviços de rede
-desenvolvido utilizando Cisco Packet Tracer.
+Repositório dedicado a laboratórios práticos de redes desenvolvidos utilizando Cisco Packet Tracer.
+
+Este projeto tem como objetivo demonstrar conceitos fundamentais de infraestrutura, roteamento, switching e serviços de rede aplicados em ambientes simulados.
 
 ---
 
-# 🎯 Objetivo
+# 🎯 Objetivos
 
-Demonstrar a implementação de uma infraestrutura
-de rede contendo múltiplos serviços e comunicação
-entre dispositivos.
+- Desenvolver conhecimentos em infraestrutura de redes
+- Praticar configuração de dispositivos Cisco
+- Simular ambientes corporativos
+- Implementar serviços de rede
+- Aplicar conceitos de comunicação entre dispositivos
 
 ---
 
 # 🛠️ Tecnologias Utilizadas
 
 - Cisco Packet Tracer
+- Switching
+- Routing
 - DHCP
 - DNS
 - HTTP
 - FTP
-- Switching
-- Routing
 
 ---
 
-# 🖥️ Topologia da Rede
+# 📚 Conceitos Trabalhados
 
-<img width="900" src="./images/network-topology.png">
-
----
-
-# 🌐 Serviços Configurados
-
-## 📡 DHCP
-Distribuição dinâmica de endereços IP para os hosts da rede.
-
-## 🌍 DNS
-Resolução de nomes entre dispositivos da infraestrutura.
-
-## 🖥️ HTTP
-Servidor web configurado para testes internos.
-
-## 📁 FTP
-Servidor FTP utilizado para compartilhamento de arquivos.
-
----
-
-# 🔀 Infraestrutura
-
-- 1 Router Cisco 2901
-- 2 Switches Cisco 2960
-- Hosts clientes
-- Servidores dedicados
-
----
-
-# 📚 Conceitos Aplicados
-
-- Segmentação de rede
+- Topologias de rede
+- Segmentação
+- Endereçamento IP
+- Configuração de roteadores
+- Configuração de switches
 - Comunicação entre redes
 - Serviços de infraestrutura
-- Topologias de rede
-- Administração básica de redes
-
----
-
-# ⚠️ Aviso
-
-Projeto desenvolvido exclusivamente para fins acadêmicos
-e educacionais.
 
 ---
 
 # 👨‍💻 Autor
 
 Vinicius Bibiano
+
+---
+
+# ⚠️ Aviso
+
+Projeto desenvolvido exclusivamente para fins acadêmicos e educacionais.
