@@ -1,81 +1,78 @@
-# 👋 Olá, eu sou Vinicius Bibiano
+# 🌐 Packet Tracer Network Lab
 
-Estudante de Segurança da Informação com foco em Cybersecurity, Pentest, Redes e Análise de Vulnerabilidades.
-
-Atualmente desenvolvendo laboratórios práticos, estudos de segurança ofensiva e projetos voltados para infraestrutura e defesa cibernética.
-
----
-
-# 🚀 Áreas de Interesse
-
-- Cybersecurity
-- Pentest
-- Segurança da Informação
-- Redes
-- Vulnerability Assessment
-- Blue Team
-- SOC
-- Infraestrutura de Redes
+Laboratório prático de infraestrutura e serviços de rede
+desenvolvido utilizando Cisco Packet Tracer.
 
 ---
 
-# 🛠️ Tecnologias e Ferramentas
+# 🎯 Objetivo
 
-- Kali Linux
-- Nmap
-- OpenVAS
-- Metasploit Framework
-- WPScan
+Demonstrar a implementação de uma infraestrutura
+de rede contendo múltiplos serviços e comunicação
+entre dispositivos.
+
+---
+
+# 🛠️ Tecnologias Utilizadas
+
 - Cisco Packet Tracer
-- Linux
-- Git & GitHub
+- DHCP
+- DNS
+- HTTP
+- FTP
+- Switching
+- Routing
 
 ---
 
-# 📂 Projetos em Destaque
+# 🖥️ Topologia da Rede
 
-## 🌐 Packet Tracer Network Lab
-Laboratório de infraestrutura de redes utilizando Cisco Packet Tracer com serviços DHCP, DNS, HTTP e FTP.
-
----
-
-## 🔎 Metasploitable Pentest Lab
-Projeto focado em reconhecimento, enumeração e exploração controlada em ambiente Metasploitable.
+<img width="900" src="./images/network-topology.png">
 
 ---
 
-## 💀 VSFTPD Exploit Lab
-Exploração prática da vulnerabilidade VSFTPD 2.3.4 Backdoor em ambiente controlado.
+# 🌐 Serviços Configurados
+
+## 📡 DHCP
+Distribuição dinâmica de endereços IP para os hosts da rede.
+
+## 🌍 DNS
+Resolução de nomes entre dispositivos da infraestrutura.
+
+## 🖥️ HTTP
+Servidor web configurado para testes internos.
+
+## 📁 FTP
+Servidor FTP utilizado para compartilhamento de arquivos.
 
 ---
 
-## 📊 OpenVAS Vulnerability Assessment
-Análise de vulnerabilidades utilizando OpenVAS em ambiente de laboratório.
+# 🔀 Infraestrutura
+
+- 1 Router Cisco 2901
+- 2 Switches Cisco 2960
+- Hosts clientes
+- Servidores dedicados
 
 ---
 
-## 🛡️ MAC Flooding Detection and Mitigation
-Laboratório prático demonstrando ataques MAC Flooding e técnicas de mitigação utilizando Port Security.
+# 📚 Conceitos Aplicados
 
----
-
-# 📚 Atualmente Estudando
-
-- Segurança Ofensiva
-- Redes Cisco
-- Análise de Vulnerabilidades
-- Hardening
-- Monitoramento e Defesa
-
----
-
-# 📫 Contato
-
-- LinkedIn: www.linkedin.com/in/vinicius-augusto-bibiano
-- GitHub: github.com/BibianoVinicius
+- Segmentação de rede
+- Comunicação entre redes
+- Serviços de infraestrutura
+- Topologias de rede
+- Administração básica de redes
 
 ---
 
 # ⚠️ Aviso
 
-Todos os projetos presentes neste repositório foram desenvolvidos exclusivamente para fins educacionais e em ambientes controlados.
+Projeto desenvolvido exclusivamente para fins acadêmicos
+e educacionais.
+
+---
+
+# 👨‍💻 Autor
+
+Vinicius Bibiano
